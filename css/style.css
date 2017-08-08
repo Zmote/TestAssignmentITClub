@@ -1,0 +1,12 @@
+.ch_flag{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/170px-Flag_of_Switzerland_%28Pantone%29.svg.png);
+}
+
+.tr_flag{
+    background-image: url(http://www.worldatlas.com/webimage/flags/countrys/zzzflags/trlarge.gif)
+}
+.flag_size{
+    width:400px;
+    height:400px;
+    background-size:400px 400px;
+}
